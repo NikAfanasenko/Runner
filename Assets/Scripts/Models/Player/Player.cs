@@ -11,17 +11,7 @@ public abstract class Player
         _mooving = mooving;
     }
 
-    public void Move()
-    {
-
-    }
-
-    public void PickMoney()
-    {
-
-    }
-    public void TakeDamage()
-    {
-
-    }
+    public abstract void Move();
+    public abstract void PickMoney();
+    public abstract void TakeDamage();
 }
