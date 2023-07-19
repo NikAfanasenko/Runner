@@ -1,3 +1,3 @@
-﻿public class Wallet
+﻿public abstract class Wallet
 {
 }

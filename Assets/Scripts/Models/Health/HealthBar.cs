@@ -1,3 +1,3 @@
-﻿public class HealthBar
+﻿public abstract class HealthBar
 {
 }

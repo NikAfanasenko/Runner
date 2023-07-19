@@ -1,3 +1,3 @@
-﻿public class HealthPoint
+﻿public abstract class HealthPoint
 {
 }

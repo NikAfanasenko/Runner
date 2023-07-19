@@ -1,3 +1,3 @@
-﻿public class Money
+﻿public abstract class Money
 {
 }
